@@ -1,0 +1,637 @@
+[
+    {
+        "position": 1,
+        "title": "Ladies - White Tie-detail Easy-wear Dress - Size: XL - H&M",
+        "link": "https://www2.hm.com/en_us/productpage.1216644004.html",
+        "source": "H&M",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcR3dnrOSgQvCC61Dwnc_gHisfKS0ccfhB0ns0U-gz0Ulp3IovdCSo74o9huyNQjlAq1i6Ruu6DQtc2ci8ggS5Fnjp5HXoLcMViPm0HTfYh8xQ",
+        "price": {
+            "value": "$21.99*",
+            "extracted_value": 21.99,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfV81AGma4Mlvon9O4RwaPNuR4X2ydb4XEN4ZehwnJyGyHcLNd",
+        "in_stock": true
+    },
+    {
+        "position": 2,
+        "title": "Maxi Dresses | Long-Sleeve Floral Bodycon & Satin | H&M US",
+        "link": "https://www2.hm.com/en_us/women/products/dresses/maxi-dresses.html",
+        "source": "H&M",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcR3dnrOSgQvCC61Dwnc_gHisfKS0ccfhB0ns0U-gz0Ulp3IovdCSo74o9huyNQjlAq1i6Ruu6DQtc2ci8ggS5Fnjp5HXoLcMViPm0HTfYh8xQ",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXT1fdTMlqdWseGgNvtSskiM_FXnNQBT9azLEUvW6xZ5SJkpzR"
+    },
+    {
+        "position": 3,
+        "title": "Almeena maxi dress",
+        "link": "https://www.bymalenebirger.com/ready-to-wear/dresses/almeena-maxi-dress/1022031CT.html",
+        "source": "By Malene Birger",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ37Rrl2e_6aNuUiwPdvqao5lG8c-uR7JTq1ho3pFZW1CZYEdVfNqOwlexSp74Rgydn2mT9DLWY1fd8iz2wqB5XxNXQOrV1xGXr_oPZu77sdEydnqa3J0vbdwq2",
+        "price": {
+            "value": "€210.00*",
+            "extracted_value": 210.0,
+            "currency": "€"
+        },
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQk3kLcZi0DNn1o5OPfnelSIZRoEUKqPZqf_PVlAbzktWbYOLf7",
+        "in_stock": false
+    },
+    {
+        "position": 4,
+        "title": "H&M Satin Dress - Buy H&M Satin Dress online in India",
+        "link": "https://www.myntra.com/h-and-m-satin-dress",
+        "source": "Myntra",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSrR7Ml_19H_B-zDu_Z_bQZGw0QqQ9U4wrcsyIsLYTUdUbRnR8dQRl2hFbwwMTnrsx4dn8RSieDAX0xgOMr90CKQT2BqGauj6jT9xLf-SQOorNViw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH9n9US1LNOq-ZQkJ1BEfYQS_Vmzm__EXN0NJCMFiw4MCTsmH1"
+    },
+    {
+        "position": 5,
+        "title": "Scoop Tank in Natural Swiss Ellipse Natural Swiss Ellipse / S",
+        "link": "https://loupcharmant.com/products/scoop-tank-in-natural-swiss-ellipse",
+        "source": "Loup Charmant",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcR4lvdYb18_6v5_QL5DdfHo2vdL27-GiD_lrwKdMQtExjgm_xYRbL4uwyqjvvEYdLQx-6SXx8M2NQ8oI4nC2juwu6WzW6f1AW9Y0FLId3bwbssAiBq9",
+        "price": {
+            "value": "$140.00*",
+            "extracted_value": 140.0,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS157-1rr8ZvD_NvqvB5iKxClm_X79VyrsbrxyT3bGZUlfsT_K",
+        "in_stock": true
+    },
+    {
+        "position": 6,
+        "title": "SUNDRESS Women's Karla Dress",
+        "link": "https://www.amazon.com/SUNDRESS-Womens-Karla-Dress/dp/B0CCFCF62B",
+        "source": "Amazon.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRm4oMDPHDSWBDQhB5-csYIdmVde_ZfnfUYnfzlJJ9w7zjXG34H4SL9TXI2H8XWInsqPagyhBQjtImrHgLv9Bwvw_d2JvfjMfz3ox9yR82MKQ7yrQ",
+        "price": {
+            "value": "$220.00*",
+            "extracted_value": 220.0,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHcZEBhSOAv_ZqvNzXXvouR7nv-3a1mRz96iejOvyL8d805C5g"
+    },
+    {
+        "position": 7,
+        "title": "Matteau Net Sustain Broderie Anglaise Organic Cotton Mini Dress - Women - White Dresses - XL",
+        "link": "https://www.net-a-porter.com/en-us/shop/product/matteau/clothing/mini-dresses/plus-net-sustain-broderie-anglaise-organic-cotton-mini-dress/1647597333951493",
+        "source": "Net-a-Porter",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQc10mkqzXA_QW7ZG707cfX5EcbJvhrJ1vK3qMW1yl1tZmpZNvzltV99FwtiHeP1PSGwFfQSDDcorqaKvBBh7-EEn3hgoVNvmg8eAe8mXU6UBL6QtzlMC5vqg",
+        "price": {
+            "value": "$460.00*",
+            "extracted_value": 460.0,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRbuCSL_uBOmxEZnJ38r1SB5rwmg-2nRyXRcHcLbn-IHOwwgud",
+        "in_stock": true
+    },
+    {
+        "position": 8,
+        "title": "Shopping made easier 🛒🛍 (@splurge_1707) • Instagram photos and videos",
+        "link": "https://www.instagram.com/splurge_1707/",
+        "source": "Instagram",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpoKX-MM8KwYvjLm-JRx4G0Kwl8RLkE48NjkNQo2Gq3SC32GSp-nb0Bv1Gwdg0bIZuT7qIQcsQnlAbeKhfDsUARVp1OzzHay_AKGuFGTR9Of3S2pacaw",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZUrGWFedm0LdZ08X-Y0BFMBoCRX25nfNAHs1xhRr5qhSpGgl8"
+    },
+    {
+        "position": 9,
+        "title": "Basic Tees for Women Scoop Neck Tank Tops Eyelet Embroidery Sleeveless Spaghetti Strap Loose Flowy Shirts at Amazon Women’s Clothing store",
+        "link": "https://www.amazon.com/Eyelet-Embroidery-Sleeveless-Spaghetti-Shirts/dp/B0CVVL42KH",
+        "source": "Amazon.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRm4oMDPHDSWBDQhB5-csYIdmVde_ZfnfUYnfzlJJ9w7zjXG34H4SL9TXI2H8XWInsqPagyhBQjtImrHgLv9Bwvw_d2JvfjMfz3ox9yR82MKQ7yrQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYNY2XMbA0xInxDTMrcdLd5O3UcUA-ahnJ1kkDq2KspMulcFt"
+    },
+    {
+        "position": 10,
+        "title": "1969 Gap Jeans Limited Edition Women's Xl Tank Top White Lined Cotton",
+        "link": "https://www.ebay.com/itm/175410754090",
+        "source": "eBay",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT5NXsW5qpQoNKtvnEC0sNL88H54opWmBBYIh2gQ3U_SGUU-yc8xV_BfeECVq4HYfwroQsx3k4lpMvjDByZM4KvONyK63j7aI6RPQrDFwRa9lo",
+        "price": {
+            "value": "$12.80*",
+            "extracted_value": 12.8,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZTFnt4D3d8VMMtWt9QgnSzBLvXaSbP__MmC7L-AdqP3NeY5_h",
+        "condition": "Used"
+    },
+    {
+        "position": 11,
+        "title": "White seersucker wind shaky cotton pleated loose A-line suspender skirt summer thin shoulder strap - Shop vitatha One Piece Dresses - Pinkoi",
+        "link": "https://en.pinkoi.com/product/h95ERxjS",
+        "source": "Pinkoi",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRmof6gvJwXSEXu88MOUrZBYP7tHmQSIkeLB-uF1xYxrIp-nlbijpK_GafXXijTm8rTx4BPiy4Ml4W1yonD5mWqFBYGAdNaO2q7-PZKQCb-TT_T",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPZB397MVpF10viqsOFUeaBYbmEsbO_Cd_n3gtJIEWgR2kCg5f"
+    },
+    {
+        "position": 12,
+        "title": "TWEE Note Dot Slit Bustier Long Dress",
+        "link": "https://www.kooding.com/note-dot-slit-bustier-long-dress/p/450010",
+        "source": "KOODING",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ3Ge2EgsOxFb19KTfuqumYjtVHuEUS-ipk1gPmj7bzKsdpUxcn0K-UT9SyEUTGbj52tJ9Vps9Q-2gaTk0AI3Wugy7UkOaUx4H--EwrjC7yt3N8Svs",
+        "price": {
+            "value": "$36.09*",
+            "extracted_value": 36.09,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFO8OUWn9JZwsfiqTZabsiK1jsN9hWX_po6d-OEVBn4lKvVqLo",
+        "in_stock": true
+    },
+    {
+        "position": 13,
+        "title": "LINNET Pattern /new!No.111 Long Camisole +XL,XXL",
+        "link": "https://www.etsy.com/listing/579967794/linnet-pattern-newno111-long-camisole",
+        "source": "Etsy",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSBC4oQ3bkBuevoH8XpxAl0ri8XiuLd4I543l3vUizk2p7JnS_Kl1aJTVxs9nt4vEC2m0siqwjI-o3Mysd9TaJqSrdOdkseIKFJA66bIfBIaDs",
+        "rating": 5.0,
+        "reviews": 13,
+        "price": {
+            "value": "$13.30*",
+            "extracted_value": 13.3,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgWJRZLlskIHJKIQRnsNP4UWscpc609xI4cYcZa58aj3erCtRp",
+        "in_stock": true
+    },
+    {
+        "position": 14,
+        "title": "Mango Women's Openwork Details Cotton Nightgown - White",
+        "link": "https://www.macys.com/shop/product/mango-womens-openwork-details-cotton-nightgown?ID=17836272",
+        "source": "Macy's",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcReejY5a_PQFskyCADeeHF-56mv71PA99cKq8zxBx7HpnB23U62IFd-1ZQhoNyiE8blitsHPFnbf0S54uYN08P37qEvEY4lEKIwdqQkBMiMSzhF",
+        "price": {
+            "value": "$59.99*",
+            "extracted_value": 59.99,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfX-ri2ylFObEvtE81Vl4hxJUsHaxjiWF5b8YCcdGbvxeL7-43",
+        "in_stock": true
+    },
+    {
+        "position": 15,
+        "title": "VIVIS | White Women‘s Undershirt | YOOX",
+        "link": "https://www.yoox.com/cz/48311004AJ/item",
+        "source": "YOOX",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSpVo1Fw7ZSTAUmNACTRj_IBocjwFonDlzg5uMTsX-cIN4aZu4izX_0BUxOXkw_-zigYnu_PMkeBYtBzRUKgsKQzY52PmAg36A-TGeX-u3G9fU",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkI-cfsEmFLAnSU_DNfBf1ccKhrpcp4UjT1yAym410Qj4L-ddw"
+    },
+    {
+        "position": 16,
+        "title": "Tilly's Dresses | Tilly’s Dress | Color: White | Size: Xxs | Pm-04245533's Closet",
+        "link": "https://poshmark.com/listing/Tillys-dress-63a89e45253a8c877fe1d14f",
+        "source": "Poshmark",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRglTQayecXuxgCFUZcgfbfA0OslKHNi_zul24ja6dNR7fFy_QNTwAYGBTDRYwPhEq6SEu7vqbjxSSTFT8JfQQODue5hNhO-4uQ26dgqP4HA44",
+        "price": {
+            "value": "$25.00*",
+            "extracted_value": 25.0,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREs0lM8jLx7NvY332sE7slR1lxc5L9fluYTIjUu8TZRSLPEfZu",
+        "condition": "Used"
+    },
+    {
+        "position": 17,
+        "title": "Zhaghmin Summer Tops for Women 2024 Trendy Sexy Lace Trim Tank Tops for Women Summer Chain Spaghetti Strap Shirt Fashion Hollow Out Sleeveless ",
+        "link": "https://www.walmart.com/ip/ZHAGHMIN-Summer-Tops-Women-2024-Trendy-Sexy-Lace-Trim-Tank-Chain-Spaghetti-Strap-Shirt-Fashion-Hollow-Out-Sleeveless-Camisole-White-SizeXL/5399684350",
+        "source": "Walmart",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTty0_uq5QGsSpEA1agUnwTMPZTu_YvS9mg_tzOR2qy22fR-FGLLoSmA4z4XotJkADD4W1gHczZdZT5PEPvM9Sv6mBjhn-lRnHs4p0G3COAlV8EwJE",
+        "price": {
+            "value": "$9.16*",
+            "extracted_value": 9.16,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjAbLpCb27yUlte_iZsXeCpkOmHrHvsDZBKYSeP7Ivt8k3GDkE",
+        "in_stock": true
+    },
+    {
+        "position": 18,
+        "title": "White 3D Embroidered Mini Summer Shift Dress",
+        "link": "https://www.next.us/en/style/su169619/q90771",
+        "source": "Next US",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQKT_zzaByHusMUzvnIbMeNvn64Cr8Eq3tnZI4wPvCPy-TuCVIkRcUEN7EabSJlD1rdewv6P4XwgdZZjkKi9gVXdLvaHfC8ayJd9suKvXiPSQ",
+        "price": {
+            "value": "$67.00*",
+            "extracted_value": 67.0,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIcaSFk1xnDy-ykzyla87umdNKc0MxA4bJKFy0eUszLOnDLGST"
+    },
+    {
+        "position": 19,
+        "title": "J.Crew: Limited-edition Pima Cotton Pajama Dress In Sweet Spots For Women",
+        "link": "https://www.jcrew.com/p/womens/categories/clothing/pajamas-and-intimates/nightgowns/limited-edition-pima-cotton-pajama-dress-in-sweet-spots/AY421",
+        "source": "J.Crew",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTV8FElL6zUa6eG3WU3NZ07BGkMDj0kuW8rVIqVGAkYR8rj4yX7Flq-14s2Xv3rrtMl2C9V1brTf5cLwMz0jbMwB6O4CGhtMdwJKEGtMzx4-9b8",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLgSkiCfZUpfM8F39ZeNtwBuFDmDDrjgnUeF03VNTtMu2t2WQc"
+    },
+    {
+        "position": 20,
+        "title": "Boldly Stylish Swiss Dot Sleeveless Midi Dress",
+        "link": "https://www.shopwinkonline.com/collections/10-and-under/products/boldly-stylish-swiss-dott-sleeveless-midi-dress",
+        "source": "Wink Boutique, inc",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSkVzbeI3N7X-wXd4waxy0wu97FxWYV3ApPx4KtQn-BthUwIx8MHmKnB-jT8h4w23mKzaM-DfoPLFANOFzL5i4aIt9okv6vdpKrQAHKDQQq1mZ7x0vyiqcVaZ6B",
+        "price": {
+            "value": "$38.00*",
+            "extracted_value": 38.0,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2N_TVBA7ckiuBE0rlsTEfbHslZmm0ZWqpx6NvZD3vAD-RZT38"
+    },
+    {
+        "position": 21,
+        "title": "Hanna Andersson White Eyelet Dress With Pockets Size 140 (10)",
+        "link": "https://www.kidizen.com/items/hanna-andersson-white-eyelet-dress-with-pockets-si-12958448",
+        "source": "Kidizen",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSeItOsou5vRyBRKS7KmFA-tQpxoFmpSprHbu1TBqIvUS2BpwPET-h8KnQI5IFDyznqf1nBhm7K4Xojcl2vwVy0PKa79qf8y4kp06pQHr2vnJAvKFk",
+        "price": {
+            "value": "$20.00*",
+            "extracted_value": 20.0,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq3UOx6Tk3A6qHxtnUHs7XXWDAXzXfSWcfUXoudKaTgqSfaTp8",
+        "condition": "Used"
+    },
+    {
+        "position": 22,
+        "title": "Moss Copenhagen Best Quality LANIA - Top new collection sale | Quality Guarantee 100% at mosscopenhagenwear.com",
+        "link": "https://www.mosscopenhagenwear.com/moss-copenhagen-best-quality-lania-top/",
+        "source": "mosscopenhagenwear.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQT7NVTOVye9Y_lYxWorb64eb5i6PiiLDHEipApXvSO1zQH9b9SOamc4coqXaFDyXzbiJtR_jUTBwar800fv-Oq2AhA54zUB9EIpyGexTCGP02-69erPJAzEuNzZvBYVQ",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3q5ApEhhazIZ2lNULzVySB7JhArToClx_tkT7KN3Mi6_DmCb0"
+    },
+    {
+        "position": 23,
+        "title": "Sun-imperial - women white embroidery lace maxi dress with center bow and back slit detail White / L",
+        "link": "https://sun-imperial.com/products/women-white-embroidery-lace-maxi-dress-with-center-bow-and-back-slit-detail",
+        "source": "Sun-Imperial",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQNRQQrblPmSYk1lUrrvi4B28hQQSdq6Dxgx8QujN8oZUv2W0fmR0oBQ-Co5z2s2IYnNXtjhW9Gt_ZPWxoB-wFpXc3zv7h7SSrql5ZmxPstu6iLVxnV",
+        "price": {
+            "value": "$37.93*",
+            "extracted_value": 37.93,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoXnlp24ppSYixP6PgnzuinEZE3Bf8vO5q5X7je81z_dof73GY",
+        "in_stock": true
+    },
+    {
+        "position": 24,
+        "title": "Fashion Women Cutwork Embroidery Mini Dress Backless Thin Straps Female Dresses Vestidos Mujer - AliExpress",
+        "link": "https://www.aliexpress.com/i/1005005972613285.html",
+        "source": "AliExpress",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQSZh_doafkxZW4WnM8O9V_jkhKLs1gPbNiXgOr3ARzlWk8o5MRYTd7bH_Z736ajGgVHGkfdtF0E1zxcBp9OdbuTT0VazgF9JKWcslyAoTrAGwT-7ftOSc",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3O1F3_FbJ3WAiEZP50jiuCzK2BKXtHzbkxznStrki__iD1o80"
+    },
+    {
+        "position": 25,
+        "title": "Ganni Anglaise Strap Dress - Women",
+        "link": "https://www.italist.com/ch/women/clothing/dresses/anglaise-strap-dress/13121385/13289077/ganni/",
+        "source": "Italist",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRj1E_QBFg2J_oRzMXaGQS_wT5_gYDALQI3dFi84xl6yUBUjddg7R4kuOMoRdpr8Fj0Z5LqBjDxLy4Xc-FYU3klYGCGCWAYEe_gr9fHUrXqnO3kCLU",
+        "price": {
+            "value": "$193.53*",
+            "extracted_value": 193.53,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUmklHUVH44lK5hbhqo5DNtmKoIgS6PGvrJpZAaiAMm2xljtno",
+        "in_stock": true
+    },
+    {
+        "position": 26,
+        "title": "Rag & Bone White Summer Spaghetti Strap Dress | Spaghetti strap dresses, Summer spaghetti, White summer",
+        "link": "https://in.pinterest.com/pin/rag-bone-white-summer-spaghetti-strap-dress--612208143103903134/",
+        "source": "Pinterest",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcSYpax9-23w3k55h5fvk6iCbcYzKnm1qjhMsJ1P4Bb4O6gI2DZH7bYpZ5seEAXynHj3p4A6cHFAP_wbQ2CvnQYaOUp6ihp29pqECCB1pKH0MRnuasA6",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTM4-2NOtcnSCtkvFVC5m0zpXHzHYsFb-nR6eOfUpt65aSBk2bd"
+    },
+    {
+        "position": 27,
+        "title": "KEOBEO | Hanoi",
+        "link": "https://www.facebook.com/keobeo.vn/?locale=vi_VN",
+        "source": "Facebook",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRv794zBOQO02ChHD5K_TnlJwwf8PThFmn58OZAhQnomqvb1XKnHGAk8BQDBcyXho53FvXtsB2eVFSimUAzH3zcBAPC_yfttm2gkn07x3UumIdkepR5",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVCjpcN1XQ-i704QFDXHQus6l3v6ez_3PGQdb9c8b1yi1wUQ6k"
+    },
+    {
+        "position": 28,
+        "title": "Scoop Tank in Daisy Embroidery",
+        "link": "https://www.marmalade.co/m/loupcharmant/p/scoop-tank-in-daisy-embroidery",
+        "source": "Marmalade.co",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTK6tdNC4hCMhTyMrwf_kG7OS91zb9A40JGq_LYpBUcykAuW2yuzExMiC0_ygNz0OhY3BdHvkjxbHNia7adO9Z9kn7gPeXB29JUXRweyTtJUW7XpJJL",
+        "price": {
+            "value": "$120.00*",
+            "extracted_value": 120.0,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVvU0c3GSMqeLI6LjWoTwokDvbEp9C-1V8Y0INgdKg9yQ7AxdH"
+    },
+    {
+        "position": 29,
+        "title": "Shaky black and white checkered silk cotton pleated loose A-line suspender skirt summer thin shoulder strap - Shop vitatha One Piece Dresses - Pinkoi",
+        "link": "https://en.pinkoi.com/product/bjkZGpba",
+        "source": "Pinkoi",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRmof6gvJwXSEXu88MOUrZBYP7tHmQSIkeLB-uF1xYxrIp-nlbijpK_GafXXijTm8rTx4BPiy4Ml4W1yonD5mWqFBYGAdNaO2q7-PZKQCb-TT_T",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_7EvK5qg8_5v71-qEqXkVcZwAWwj54PXTRzVMwWsLnrG-YpeT"
+    },
+    {
+        "position": 30,
+        "title": "ASOS DESIGN bow detail strappy A-line mini dress in white",
+        "link": "https://www.asos.com/us/asos-design/asos-design-bow-detail-strappy-a-line-mini-dress-in-white/prd/206789963",
+        "source": "ASOS",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQYpGcoUc6JfiI39BtCTZhob5K71_NPmjzbtxFnlUAklDkbixYNyb1dsFq0eG23J-6ERkcY0N5RE_E2y9nDiUxTis1wLDLORzJ4jpbRkWuWBmY",
+        "price": {
+            "value": "$44.99*",
+            "extracted_value": 44.99,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujEtvAilNcxCI-hmoUDrdxam71VfFwXVpPdzFPx3Bj4xvAI4P",
+        "in_stock": false
+    },
+    {
+        "position": 31,
+        "title": "Buy LOUP CHARMANT Swiss-dot Scoop-neck Cotton Cami Top - White At 60% Off | Editorialist",
+        "link": "https://editorialist.com/p/loup-charmantswissdot-scoopneck-cotton-cami-topwomenswhite/?color=",
+        "source": "Editorialist",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSjI3N0xIlOq8jaKqwHRRghMJ9vxTG7jeY40jL_NLUOHtvz38IiVRKBr0yCbYKZvdzzYKwVUbWypW6djHxBbu1vdz2UD9I7i5uCpKlJX5ftUmf6Eii4",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5Oe6-V965qlrgdgpfl0SQB_B0NYIccDM1erFBjpQarE-nJ1Rj"
+    },
+    {
+        "position": 32,
+        "title": "Zara NWOT Crochet detail mini white dress size... - Depop",
+        "link": "https://www.depop.com/products/naturella1-zara-nwot-crochet-detail-mini/",
+        "source": "Depop",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSZEid_PL6y2TyvsM_Eo2MdfBQ4Byd5_y_7a_j5ApTdJp91TLa0l86JfvQIbE1_UXqftg4hfKishOHlAMVoodnuCkh51jpczyLlhFdHAC7iXw8H",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrBelSNl_J4Xzv7ZIDLjNd46nZ9RGnt8BvSE64YTyBYdK1xt5y"
+    },
+    {
+        "position": 33,
+        "title": "Pomandère - Broderie Anglaise Tank - Milk 44",
+        "link": "https://www.piermarinihouston.com/products/pomandere-broderie-anglaise-tank-milk",
+        "source": "Piermarini",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRdcbiKAjrXdph5ZFk8WyXm4jrZzVys2YXah5rMBtxbOPyGpf_vc7GDL6FrvPNZVtj-sElsByRdgzv2n9nmVRspYDhTJflkmpOOxpzB-Zf1A7ZZFMd_hWOvJ0W1QZJG",
+        "price": {
+            "value": "$109.00*",
+            "extracted_value": 109.0,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQi4TC8tqXL8GmEloJaVkBcPu86pLzED6uIpmQ0u6PvkW_ZvBrE",
+        "in_stock": true
+    },
+    {
+        "position": 34,
+        "title": "River Island White sequin slip midi dress | River Island | ShopLook",
+        "link": "https://shoplook.io/product-preview/river-island-white-sequin-slip/14420513",
+        "source": "ShopLook",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQDSK9elvG_OZTsWKGk416FoTFQimOUM3ESqBnoBskwNGPRzBCp1V3MmqoxDwFFltUNapK6KASFmx4cUFFM9DHIXXI0IhwZYj-Vx4fEmzg_Fw",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiqNzeb8g-_aIgptvmLurkSUaf559MBLyodLy4oQLBO5dcJuNI"
+    },
+    {
+        "position": 35,
+        "title": "Chanel Skirt suit White Silk Cotton Viscose ref.322526 - Joli Closet",
+        "link": "https://www.jolicloset.com/en/designers-women/chanel/womens-clothing/skirt-suit/skirt-suit--322526",
+        "source": "Joli Closet",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ5ZWIsVz6D_tzPSfsQ7zlWhjofhTuWQjyz6R_WDBZ-axb1mamS-02U_Bcg5vIuUlvkqvC8ovymLPFYlpHEC_cvKZEm2YfOyIAI_Hq_RO86fd5e6Yddy9k",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlorUPiNwBbRgVxLiMZh-57CqA53D5IkRVXp8N00E8G3YYY8CX"
+    },
+    {
+        "position": 36,
+        "title": "Urban Revivo white Textured Fabric Spaghetti Strap Smock Dress, Women's Fashion, Dresses & Sets, Dresses on Carousell",
+        "link": "https://www.carousell.sg/p/urban-revivo-white-textured-fabric-spaghetti-strap-smock-dress-1169037939/",
+        "source": "Carousell",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQTi3kYs_C75JaRVmPF6n9VIfQjWDB6wBBYX3BHCbeNcdyJjUJOndQ7oVhmcNprRZ57ejGOcN-X9toli4f4_Kp0Al4Xc5SjLBTJDIjIR4qTAgzHh5wV",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS54zY5x1jmleuK-4AgRIDwIkW2QEFp6H_rqGEMOONiLegPkBgu"
+    },
+    {
+        "position": 37,
+        "title": "20 Wardrobe Essentials That Will Simplify Your Closet | Vogue",
+        "link": "https://www.vogue.com/article/wardrobe-essentials",
+        "source": "Vogue",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRyDj-RI4mYRF8Sa6c53A8zbQteLURlZuKezGy02Dz1Cynxkl2K3qwmtTx05XSfLUPyAbkIDDXlADQPS1VqoEbjWm2H_7R7o5QUOTdagbior3hM",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgzYxizZ8kabNCSSJyekueFeyAM58ZDDgA-JHjDPQrhjhCfmy8"
+    },
+    {
+        "position": 38,
+        "title": "Hantex Ltd",
+        "link": "https://m.facebook.com/HantexLtd/?locale2=zh_TW",
+        "source": "Facebook",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcQQuktqCGuJof_VT0qzNf3KGtwmYSbByzTIwFfMIOtbWkc-AM_-SDafTGG9Yw8QT9QRvtR9guasXjLUHhwrRdZHi14bd8OqPJW72zHyV8zcuYLxsQ",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgYX9fYowkNypmva5DWa3L-rT_RUxX9xC9YEri715GkzwWICwd"
+    },
+    {
+        "position": 39,
+        "title": "Tory Burch Claire Pleated Plaid Dress - ShopStyle",
+        "link": "https://www.shopstyle.com/g/women/tory-burch/claire-pleated-plaid-dress/232925301",
+        "source": "ShopStyle",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQMjGf0cs_Yi90mCFOhjZJ34g2jV9UE19r0U5eh1MgFgY9lawxsB9dnvss1DHQo_sfbdkVPTolJ_F76Atjx9gIv-fDlQ8ggiWTcDk1WQrj2Ak80Rjv2Aw",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgIntKmhWdcPIJ7ru9zrvq_l0b3buA_zguZzpJXpM4PKxf2lbw"
+    },
+    {
+        "position": 40,
+        "title": "Circle-Embroidery Cotton Nightie",
+        "link": "https://www.thewhitecompany.com/us/Circle-Embroidery-Cotton-Nightie/p/A00923",
+        "source": "The White Company",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQlWOO9eQIn8i5VAA4AhEB5wCuOsg9pkbnII_I4N-0ZNOoRKV_EeG6JJ7KRyDXueqNZLQYlggMOOeIs1z2aNizpQKx0sS_pZorhXp8rEfv7U1Q3Bg9jv--e3Gsolg",
+        "rating": 5.0,
+        "reviews": 2,
+        "price": {
+            "value": "$95.00*",
+            "extracted_value": 95.0,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpkJT_GUj1Im4ZIKtz1xeqi5xE3E_L7DFVT6hBUBd7VymR2iwm",
+        "in_stock": false
+    },
+    {
+        "position": 41,
+        "title": "P.A.R.O.S.H. Sequins Dress - ShopStyle",
+        "link": "https://www.shopstyle.com/g/women/p-a-r-o-s-h/sequins-dress/944838688",
+        "source": "ShopStyle",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQMjGf0cs_Yi90mCFOhjZJ34g2jV9UE19r0U5eh1MgFgY9lawxsB9dnvss1DHQo_sfbdkVPTolJ_F76Atjx9gIv-fDlQ8ggiWTcDk1WQrj2Ak80Rjv2Aw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfIc2-Su-t0iTM2sbWICwkkyzw8omgakaESCFnN7YJCvylCcLl"
+    },
+    {
+        "position": 42,
+        "title": "Vivis Woman Sleepwear White Size Xl Cotton | ModeSens",
+        "link": "https://modesens.com/product/vivis-woman-sleepwear-white-size-xl-cotton-93378239/",
+        "source": "ModeSens",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcRaPSy6d4KhUrXgz3NW5oKqP4V3CcfLtAPIincpeK4EJpwKz9xwR_ENkOtiDdtiPz0e__O-c4L8v42yBRFroaXHXd4-AnKERJ605LztNhEKay4",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkZsxfRBrLiMxY_tf9_eueW1Xjc6VPKq_K31CEJrKgt2DUac_y"
+    },
+    {
+        "position": 43,
+        "title": "Mini Slip",
+        "link": "https://the-drawer.com/shop/sleepwear/pyjama-sets/mini-slip-3/",
+        "source": "the-drawer.com",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTrOrm8Rj-cY-u3G0yxW5Tjp0lz6g3iLtoBMOgSqswuXoCduiYY62y2JpLJ4o4wkaG_beL5Nq0yHm9OAlEeEFKwktPQ31SuK2qoRkPg8s8urpoMpw",
+        "price": {
+            "value": "SAR 375.00*",
+            "extracted_value": 375.0,
+            "currency": "S"
+        },
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsPd-CIsVKPM3v3Xy2Vo0B7IojhG6AQJyxVKkD6gXkHMBH4rpq",
+        "in_stock": true
+    },
+    {
+        "position": 44,
+        "title": "1. STATE Knee Length Dresses for Women for sale | eBay",
+        "link": "https://www.ebay.com/b/1-STATE-Knee-Length-Dresses-for-Women/63861/bn_7115307305",
+        "source": "eBay",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT5NXsW5qpQoNKtvnEC0sNL88H54opWmBBYIh2gQ3U_SGUU-yc8xV_BfeECVq4HYfwroQsx3k4lpMvjDByZM4KvONyK63j7aI6RPQrDFwRa9lo",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDk--LhICyk0FbuXbOIdtjqG8In0-_uWes8ANxqgJm5y18Czxa"
+    },
+    {
+        "position": 45,
+        "title": "Hagahi Halter Dress",
+        "link": "https://www.garmentory.com/sale/hagahi/all/73788-halter-dress",
+        "source": "Garmentory",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTULsZbtiHp-sgOx388KeKqUpYp_QY_0IYUG5jb2mWHSKYl2j0VRQ1IV1E0JHmb4xa4e4h03jCCORO9U8OMNLZqE7pNteTlwvCuh9tqp-RIW06S5ART544",
+        "price": {
+            "value": "$97.50*",
+            "extracted_value": 97.5,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0x0qX3OrKyRaC-3eapAn8VbBk-LiuleTd2jt-tJq1m8Qp5Obq",
+        "in_stock": false
+    },
+    {
+        "position": 46,
+        "title": "Jack by BB Dakota O'Hara Embroidered Romper White Size 0 - $43 - From Kat",
+        "link": "https://curtsyapp.com/item/jack-by-bb-dakota-ohara-embroidered-romper-white/Dn1XixoIDO",
+        "source": "Curtsy",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTcEO1rzsL7s4frxo0zlTJe2SAEb-dgDtJAN6THhoRir1SnignQcP9ieEIe1paSeE6Pb3VHm1fdk5EdqcTop0zfIYYnmxUhIm_uvm7QJsCDMvo1",
+        "price": {
+            "value": "$43.00*",
+            "extracted_value": 43.0,
+            "currency": "$"
+        },
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxff7OCc5kRIs5pBpk_NAB2UhGS4bDTz209JL_dXeiK6QhHj2Z",
+        "in_stock": false
+    },
+    {
+        "position": 47,
+        "title": "MSCH Copenhagen - Tops - Moss Copenhagen - Lania SL Top",
+        "link": "https://www.mschcopenhagen.com/commodity/11630-moss-copenhagen-lania-sl-top",
+        "source": "MSCH Copenhagen",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTiB6WMjnABew_rrLQjOmxRcSfFBmHLKyin7sHJjar61k6kcyMNVPZWT6y7iDdQ4qYzyY2_6QvVQqlG102bawIbl_7h7bb6UoLygvn4qfN3yChE08mex0l1riO9",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQorGDKnmQD9wswRa8QAYHegZVvMSXV9iq3iF9gL-MFSPAI8dEC"
+    },
+    {
+        "position": 48,
+        "title": "Size L Casual Sleeveless Dresses for Girls for sale | eBay",
+        "link": "https://www.ebay.com/b/Size-L-Casual-Sleeveless-Dresses-for-Girls/51581/bn_111442949",
+        "source": "eBay",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT5NXsW5qpQoNKtvnEC0sNL88H54opWmBBYIh2gQ3U_SGUU-yc8xV_BfeECVq4HYfwroQsx3k4lpMvjDByZM4KvONyK63j7aI6RPQrDFwRa9lo",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTWgtqVbkzJ1PnVQBEdf4b1oG6P8zwk5WPwBx9Spt4olaCbAAB"
+    },
+    {
+        "position": 49,
+        "title": "long dress with lace trim",
+        "link": "https://parisfashionshops.com/en/women/product/feelkoo-long-dress-with-lace-trim",
+        "source": "Paris Fashion Shops",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTnICsPa7muKn__NmTQqeRHRGrH6DxWytfulq-OxW1KieGiwEenWOIPsqUdd1f50y47Ke7Bt-9Mhoy2fUuS6AGbyfkl2PM6KqTVggZvOuVcc8wkJ3tDU87-KH8",
+        "price": {
+            "value": "€100.00*",
+            "extracted_value": 100.0,
+            "currency": "€"
+        },
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR61OUGk3lsaHH34dNqGPxIfIUX5Lb01rfhGM7FUvEKXQuf3GED",
+        "condition": "Used"
+    },
+    {
+        "position": 50,
+        "title": "Kimchi Blue Women's Mini Skirt Uk 6 Cream 100% Cotton",
+        "link": "https://thrift.plus/products/kimchi-blue-womens-mini-skirt-uk-6-cream-100-cotton",
+        "source": "Thrift+",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcTj4dn05QIApvuZ47OP_MEDt1sST8MvvG8O_8MSY6H2Mdw7_4JH5i9LCbLbuLVJq18_GVSx2WsyK5pX7_pQujx5LFIkscsyl9c4Y_j22OSgTg",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwZ4TJNiclgAWTn3wVpdS4C2lOuL33v7ONi1GLSyUtFvdLzeWV"
+    },
+    {
+        "position": 51,
+        "title": "Annabella Tank Tops for Women - Poshmark",
+        "link": "https://poshmark.com/brand/Annabella-Women-Tops-Tank_Tops-color-Green",
+        "source": "Poshmark",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRglTQayecXuxgCFUZcgfbfA0OslKHNi_zul24ja6dNR7fFy_QNTwAYGBTDRYwPhEq6SEu7vqbjxSSTFT8JfQQODue5hNhO-4uQ26dgqP4HA44",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxdg7QWJsvoG962pUo25zys6cw5ZW6sRJJqIOjVTz5aJ6twcqU"
+    },
+    {
+        "position": 52,
+        "title": "White Jersey Broderie Strappy Mini Dress",
+        "link": "https://www.newlook.com/row/womens/clothing/dresses/white-jersey-broderie-strappy-mini-dress/p/871949510",
+        "source": "New Look",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn:ANd9GcTJpavkRrfqff7Z0uGz1WikacFJRKzDV_giLf4387MZJCz7VWlC6l5duZZYzvJxBq4WnD9u1LtRp3xb1rL5DLhX3Jq88sldMhreVQ7u02z6rtJlb1o",
+        "price": {
+            "value": "€30.00*",
+            "extracted_value": 30.0,
+            "currency": "€"
+        },
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmPm1WF0ofBTWvwggau8C16C7TxZAhAFd7u47zMpfxxzvu7MnW"
+    },
+    {
+        "position": 53,
+        "title": "3inute floral midi dress in white, Women's Fashion, Dresses & Sets, Dresses on Carousell",
+        "link": "https://www.carousell.sg/p/3inute-floral-midi-dress-in-white-1280727013/",
+        "source": "Carousell",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQTi3kYs_C75JaRVmPF6n9VIfQjWDB6wBBYX3BHCbeNcdyJjUJOndQ7oVhmcNprRZ57ejGOcN-X9toli4f4_Kp0Al4Xc5SjLBTJDIjIR4qTAgzHh5wV",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ13tmMLPqLLtGw-KY74X8WB-7GdHA4vqTJpb6aHIR69ENPtEKo"
+    },
+    {
+        "position": 54,
+        "title": "Jovovich-Hawk Regular Size Clothing for Women for sale | eBay",
+        "link": "https://www.ebay.com/b/Jovovich-Hawk-Regular-Size-Clothing-for-Women/15724/bn_105739016",
+        "source": "eBay",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT5NXsW5qpQoNKtvnEC0sNL88H54opWmBBYIh2gQ3U_SGUU-yc8xV_BfeECVq4HYfwroQsx3k4lpMvjDByZM4KvONyK63j7aI6RPQrDFwRa9lo",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR20O0HPh4AazeXjY9TqA_1qGIS9hyGugBIVhMZA3QwV58nR9MD"
+    },
+    {
+        "position": 55,
+        "title": "InkPerfect by AGF Studio by Art Gallery Fabrics ® - Issuu",
+        "link": "https://issuu.com/artgalleryfab/docs/inkperfect_by_agf_studio",
+        "source": "Issuu",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcS4IMHXBepEZORnxwL04wJuodtDAlwv62KZEgyHC1q7jK9QvqanhKY5ZCHK00iLEtFg_-9Pbzq2yZByTrDHti2sMPEcadlxfGRR8Vhs76A",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOpDkPoFAL1cL5c8N_riw5bmPUhNqx3TTVo1gmmcvnuUr96F9n"
+    },
+    {
+        "position": 56,
+        "title": "fsDress.ph, Online Shop | Shopee Philippines",
+        "link": "https://shopee.ph/fsdress.ph",
+        "source": "Shopee Philippines",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRJm714Z9oSYy2_rJwN8WepCalCwBqMJcvDrpdBMXKLY99pNNe4Y_i90I4Y9dFxgYR02iTu2Ww3Bd4v2K4cnWK1Xk5JFWgSAqZmZPTofPU",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_ozCFh81OKgXQgpTFcKjRcbHk4jsB10i26cAIjt5oKeT50MI0"
+    },
+    {
+        "position": 57,
+        "title": "Unbranded Nylon Vintage Nightwear & Robes for Women for sale | eBay",
+        "link": "https://www.ebay.co.uk/b/bn_9645069",
+        "source": "eBay",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRekjTgdGav_6ISP0AZMvu9FB53SrareRJpqXOilFrO4--Pe_JfyGizpaqEaZ-oH2GYYZRXvH-tC9agZzloT6zammDdPct17A0pn3IbZT46gsUdBw",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSV4AmWke6oR8fhQbnq5zFgg7Ybhqkn47FI4yl8T_uH9e-Tt8sT"
+    },
+    {
+        "position": 58,
+        "title": "ZARA White Eyelet Embroidered Romper Dress",
+        "link": "https://www.carousell.ph/p/%F0%9F%8C%B8-zara-white-eyelet-embroidered-romper-dress-1264683588/",
+        "source": "carousell.ph",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcSeKpmrfODnsTKpFXV5vp8nzccEaKeP-pIWyiL-4UGEPhz3jyvsyhInU-qVUp6z4wI5gY4wGEXc5uBmAPZuL-AT3PW6tMEy4PFI6StMn4uQoJn--5lY",
+        "price": {
+            "value": "₱1,450.00*",
+            "extracted_value": 1450.0,
+            "currency": "₱"
+        },
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgAIGwFx5CT7lBumC9tKeU4Yls3vZmwlFiECkL12EXV9k-5NMX",
+        "in_stock": false
+    },
+    {
+        "position": 59,
+        "title": "Best 25  Deals for Windsor Tribal Dress | Poshmark",
+        "link": "https://poshmark.com/browse/windsor-tribal-dress",
+        "source": "Poshmark",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRglTQayecXuxgCFUZcgfbfA0OslKHNi_zul24ja6dNR7fFy_QNTwAYGBTDRYwPhEq6SEu7vqbjxSSTFT8JfQQODue5hNhO-4uQ26dgqP4HA44",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpbcsvyqb3P6VJsh7tfT_xHvuY2qd6q-2i06Pt987VGy9pc8-G"
+    },
+    {
+        "position": 60,
+        "title": "Zara Lace Dresses for Girls for sale | eBay",
+        "link": "https://www.ebay.co.uk/b/bn_90496151",
+        "source": "eBay",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRekjTgdGav_6ISP0AZMvu9FB53SrareRJpqXOilFrO4--Pe_JfyGizpaqEaZ-oH2GYYZRXvH-tC9agZzloT6zammDdPct17A0pn3IbZT46gsUdBw",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgGltwre3666_kny19n2g-xe2dFg7rCLI_Hr7gK-z087dyN8eU"
+    }
+]
